@@ -1,3 +1,5 @@
+import br.com.etechoracio.playlivros.model.Livro;
+
 public class TestaReferencias {
 }
 
@@ -12,5 +14,5 @@ void main() {
 
     System.out.println(harryPotter.titulo);
 
-    """ sout """
+    //""" sout """
 }
